@@ -1,6 +1,6 @@
 ## Welcome to LCPH Minecraft server.
 
-Server host is Li Kangfeng(Yamk ide Xml)
+Server host is Li Kangfeng(Yaml ide Xml)
 
 You can use the [editor on GitHub](https://github.com/YiX-Lee/lcph-server/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
